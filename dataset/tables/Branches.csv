@@ -1,0 +1,27 @@
+﻿BranchID    BranchName                                                                                           Address
+----------- ---------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1           Branch A                                                                                             New York
+2           Branch B                                                                                             Los Angeles
+3           Branch C                                                                                             Chicago
+4           Branch D                                                                                             Houston
+5           Branch E                                                                                             Phoenix
+6           Branch F                                                                                             Philadelphia
+7           Branch G                                                                                             San Antonio
+8           Branch H                                                                                             San Diego
+9           Branch I                                                                                             Dallas
+10          Branch J                                                                                             San Jose
+11          Branch K                                                                                             Austin
+12          Branch L                                                                                             Jacksonville
+13          Branch M                                                                                             Columbus
+14          Branch N                                                                                             Charlotte
+15          Branch O                                                                                             San Francisco
+16          Branch P                                                                                             Indianapolis
+17          Branch Q                                                                                             Seattle
+18          Branch R                                                                                             Denver
+19          Branch S                                                                                             Washington
+20          Branch T                                                                                             Boston
+
+(20 rows affected)
+
+
+Completion time: 2026-04-20T11:41:31.9348068+07:00
